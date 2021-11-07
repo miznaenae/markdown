@@ -1,13 +1,15 @@
-# What I Want to do on My Website
+#  Heading 1
 
-**This is a markdown article for user stories.  I haven't the slightest idea what I'm doing, but I'll try.**
+**This is a article about user stories and how to create one. Also to get me use to a famililar with creating one.**
 
-[My github repository](https://github.com/miznanae)
+- [My github repository](https://github.com/miznanae)
 
+----------------------------------------------------------------
+## Heading 2
 
-## Links, Lists and Images
+1. As a user a feature I'd like to see is navagational heading.
+2. As a user I would also like it to have links to other websites.
 
-1. I want the my website to show all elements of html
-2. It will have some css and javascript
-3. You will be able to click on links and fill out forms
+--------------------------------
 
+![Apple](HTML-GIT/image/apple-win-539-millions.png)
