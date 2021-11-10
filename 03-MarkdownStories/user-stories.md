@@ -1,6 +1,6 @@
 #  Heading 1
 
-**This is a article about user stories and how to create one. Also to get me use to a famililar with creating one.**
+**This is a article about user stories and how to create one. Also to help me to get a better understanding of this.**
 
 - [My github repository](https://github.com/miznanae)
 
@@ -12,4 +12,4 @@
 
 --------------------------------
 
-![Apple](HTML-GIT/image/apple-win-539-millions.png)
+![Apple](HTML-GIT/image/apple.png)
